@@ -9,7 +9,7 @@ export function FeedbackTypeStep({ onFeedbackTypeChanged }: FeedTypeStepProps) {
     return (
         <>
             <header>
-                <span className="text-xl leading-6">Deixe seu feedback</span>
+                <span className="text-xl leading-6 items-center text-center">Deixe seu feedback</span>
 
                 <ClosedButton />
             </header>
